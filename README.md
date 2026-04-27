@@ -40,5 +40,5 @@ Talking about Personal Stuffs
 <br><br>
 </details>
 <p align="center">
-<a href="https://github.com/brightdev0814?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=brightdev0814&theme=onestar&no-frame=true&column=6&row=1"  width="76%" alt="@BrightDev0814 trophy stats"/></a>
+<a href="https://github.com/brightdev0814?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=brightdev0814&theme=flat&row=2&column=3&no-bg=true"  width="76%" alt="@BrightDev0814 trophy stats"/></a>
 </p>
