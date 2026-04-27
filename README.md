@@ -1,14 +1,4 @@
-<p align='center'>
-    <a href="https://web.skype.com?id=live:seal12040315">
-      <img src="https://img.shields.io/badge/skype-%230077B5.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-    </a>&nbsp;&nbsp;
-    <a href="mailto:mykolenovladyslav87@gmail.com">
-      <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>&nbsp;&nbsp;
-</p>
-
-Talking about Personal Stuffs:
-
+Talking about Personal Stuffs
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
@@ -50,5 +40,5 @@ Talking about Personal Stuffs:
 <br><br>
 </details>
 <p align="center">
-<a href="https://github.com/vladyslav950503?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=vladyslav950503&theme=onestar&no-frame=true&column=6&row=1"  width="76%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/brightdev0814?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=brightdev0814&theme=onestar&no-frame=true&column=6&row=1"  width="76%" alt="@BrightDev0814 trophy stats"/></a>
 </p>
